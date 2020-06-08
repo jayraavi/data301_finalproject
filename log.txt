@@ -1,4 +1,11 @@
-Aaron - Neural Networks
-Jay - Linear Regression
-Austin - K-Nearest Neighbors
-Abhishu - Data Cleaning
+Tasks and Time Spent ->
+
+Everyone          -> Project Brainstorming: Exploring Different Datasets 
+	   	          and potential Project Ideas  - Week 5 ~ 3 hours
+Aaron and Abhishu -> Neural Networks - Week 8 ~ 3 hours
+Vijay and Austin  -> Linear Regression - Week 8 ~ 2.5 hours
+Austin and Aaron  -> K-Nearest Neighbors - Week 8 ~ 2.5 hours
+Abhishu and Vijay -> Data Cleaning and Feature Extraction and Analysis
+			   						 - Week 7 ~ 4 hours
+
+Everyone	  	 -> Slides.pptx, Report.pdf, Log.txt ~ 4 hours

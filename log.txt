@@ -1,0 +1,4 @@
+Aaron - Neural Networks
+Jay - Linear Regression
+Austin - K-Nearest Neighbors
+Abhishu - Data Cleaning
